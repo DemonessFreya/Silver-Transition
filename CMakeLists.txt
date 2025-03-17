@@ -7,7 +7,7 @@ project(Vulkan)
 set(CMAKE_CXX_STANDARD 20)
 
 # Set source files
-set(SOURCES src/main.cpp)
+set(SOURCES src/compute.cpp)
 
 # Define the output directory for the executable
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/bin)

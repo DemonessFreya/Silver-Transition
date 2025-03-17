@@ -16,3 +16,4 @@ CMakeUserPresets.json
 .ninja_log
 build.ninja
 .ninja_lock
+main.cpp
